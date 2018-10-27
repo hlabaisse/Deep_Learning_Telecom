@@ -9,3 +9,5 @@ Create a convolution neural network to improve the accuracy for hand-written dig
 
 Third TP:
 Create a recurrent neural network to predict the next work using a short sample story.
+
+I would have liked to renovate it but I do not have access to the servers of Eurecom and my computer is not enough powerful to compute it.
